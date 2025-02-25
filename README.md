@@ -1,3 +1,4 @@
+> Feby Kurnia Putri
 # ESP32 BASED TRAFFIC LIGHT SIMULATION
 
 ## **Introduction Project**
@@ -79,7 +80,7 @@
 }
 ```
 
-# **Traffic Light Program Code**
+## **Traffic Light Program Code**
 *This program code is to set the traffic lights to turn on alternately according to a predetermined duration.*
 
 ```cpp
