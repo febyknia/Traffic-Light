@@ -1,5 +1,4 @@
-
->Feby Kurnia Putri | 25 February 2025
+>🧑🏻‍💻Feby Kurnia Putri 🗓 25 February 2025
 
 # ESP32 BASED TRAFFIC LIGHT SIMULATION
 
