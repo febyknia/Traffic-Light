@@ -1,4 +1,6 @@
-> Feby Kurnia Putri
+
+>**Feby Kurnia Putri** **|** **25 February 2025**
+
 # ESP32 BASED TRAFFIC LIGHT SIMULATION
 
 ## **Introduction**
@@ -111,6 +113,8 @@ void loop() {
 }
 ```
 This simulation successfully displays red (20 seconds), yellow (5 seconds), and green (30 seconds) traffic lights that turn on alternately. For more details, please follow the implementation steps in the traffic light report.
+
+
 
 
 
