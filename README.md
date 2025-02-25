@@ -2,11 +2,11 @@
 
 # ESP32 BASED TRAFFIC LIGHT SIMULATION
 
-## **Introduction**
+## **A. Introduction**
 
 *This project is a traffic light simulation activity using Wokwi based on ESP32 Microcontroller and Visual Studio Code C++ language. The output of this simulation is red (20 seconds), yellow (5 seconds), and green (30 seconds) lights that are lit alternately.*
 
-## **Diagram**
+## **B. Diagram**
 *This diagram was created using the ESP32 Microcontroller based Wokwi simulation.*
 
 <img width="1020" alt="2" src="https://github.com/user-attachments/assets/345dff18-8fdb-4192-98fb-7535c29eca8c" />
@@ -81,7 +81,7 @@
 }
 ```
 
-## **Program Code**
+## **C. Program Code**
 *This program code is to set the traffic lights to turn on alternately according to a predetermined duration.*
 
 ```cpp
