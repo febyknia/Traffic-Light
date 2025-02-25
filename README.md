@@ -110,7 +110,7 @@ void loop() {
  digitalWrite(red, LOW);
 }
 ```
-For more details, please follow the implementation steps in the project report.
+For more details, please follow the implementation steps in the traffic light report.
 
 
 
