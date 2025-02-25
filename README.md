@@ -1,6 +1,6 @@
 # ESP32-BASED TRAFFIC LIGHT SIMULATION
 > This project is a traffic light simulation activity using Wokwi based on ESP3 Microcontroller and Visual Studio Code C++ language. The output of this simulation is red (20 seconds), yellow (5 seconds), and green (30 seconds) lights that are lit alternately.
-<img width="794" alt="Screenshot 2025-02-25 104820" src="https://github.com/user-attachments/assets/0dc15b47-ae84-4734-8e5a-f8e33eb6cee1" />
+<img width="793" alt="Screenshot 2025-02-25 150641" src="https://github.com/user-attachments/assets/a621443e-530c-4da0-918e-8f6223e34724" />
 
         {
           "version": 1,
@@ -98,9 +98,7 @@
         }
 
 # Simulation result documentation
-![Uploading Screenshot 2025-02-25 104955.png…]()
-![Uploading Screenshot 2025-02-25 105143.png…]()
-![Uploading Screenshot 2025-02-25 105218.png…]()
+
 
 
 
