@@ -1,7 +1,7 @@
 >👩🏻‍💻Feby 🗓 25 February 2025
 
 # ESP32 BASED TRAFFIC LIGHT SIMULATION
-
+---
 ## **A. Introduction**
 
 *This project is a traffic light simulation activity using Wokwi based on ESP32 Microcontroller and Visual Studio Code C++ language. The output of this simulation is red (20 seconds), yellow (5 seconds), and green (30 seconds) lights that are lit alternately.*
